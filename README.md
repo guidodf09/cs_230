@@ -26,7 +26,7 @@ The deep learning model leverages the **Temporal Fusion Transformer (TFT)**, a s
 The dataset consists of 3000 simulation results, each with 125 days of data split into 25 time steps (5-day increments).
 
 You can download the dataset from the following folder:
-[**Download Dataset**]([https://drive.google.com/drive/folders/1D-YGRyxuYXCYkTJBPbrxDju0t4iOdLRP?usp=sharing])
+https://drive.google.com/drive/folders/1D-YGRyxuYXCYkTJBPbrxDju0t4iOdLRP?usp=sharing
 
 ## Setup
 
